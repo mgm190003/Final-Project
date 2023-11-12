@@ -1,5 +1,4 @@
 # Sole Survivor
-https://github.com/mgm190003/Final-Project
 https://github.com/mgm190003/Sole-Survivor-Final-Project
 ## Description: 
 A rogue-lite survival game where the player faces endless waves of enemies that increasingly grow in strength. The player will gain powers over time based on their performance. The goal of the game is to last as long as possible
